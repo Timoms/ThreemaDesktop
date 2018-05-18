@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreemaWeb", "ThreemaWeb\ThreemaWeb.csproj", "{33DBAF23-36EF-4C17-B2A1-89AEF537F778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codegen", "Z:\VisualStudio\codegen\codegen\codegen\codegen.csproj", "{B6E6CA97-E969-4449-8377-B46028968A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33DBAF23-36EF-4C17-B2A1-89AEF537F778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DBAF23-36EF-4C17-B2A1-89AEF537F778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DBAF23-36EF-4C17-B2A1-89AEF537F778}.Debug|x64.ActiveCfg = Debug|x64
+		{33DBAF23-36EF-4C17-B2A1-89AEF537F778}.Debug|x64.Build.0 = Debug|x64
+		{33DBAF23-36EF-4C17-B2A1-89AEF537F778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DBAF23-36EF-4C17-B2A1-89AEF537F778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33DBAF23-36EF-4C17-B2A1-89AEF537F778}.Release|x64.ActiveCfg = Release|x64
+		{33DBAF23-36EF-4C17-B2A1-89AEF537F778}.Release|x64.Build.0 = Release|x64
+		{B6E6CA97-E969-4449-8377-B46028968A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E6CA97-E969-4449-8377-B46028968A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E6CA97-E969-4449-8377-B46028968A45}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B6E6CA97-E969-4449-8377-B46028968A45}.Debug|x64.Build.0 = Debug|Any CPU
+		{B6E6CA97-E969-4449-8377-B46028968A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E6CA97-E969-4449-8377-B46028968A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E6CA97-E969-4449-8377-B46028968A45}.Release|x64.ActiveCfg = Release|Any CPU
+		{B6E6CA97-E969-4449-8377-B46028968A45}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E0C5900-5D76-4123-8D2B-2CF85E025D4C}
+	EndGlobalSection
+EndGlobal
